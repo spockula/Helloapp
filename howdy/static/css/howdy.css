@@ -1,0 +1,36 @@
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: auto;
+    height: auto;
+    background-color: #5CDB95;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.navbarr{
+    margin-top: 10px;
+    }
+.quote{
+    font-size: 20px;
+    justify-content: space-between;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 18px;
+    color: blueviolet;
+    text-align: center;
+}
+.navbarr ul a{
+    font-family: 'Abril Fatface', cursive;
+    float: right;
+    color: black;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 0.1em solid black;
+}
+#InitialContainer{
+    
+}
+a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}

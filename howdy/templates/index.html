@@ -1,0 +1,32 @@
+{% load staticfiles %}<!--loads the 'static' folder -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Ogu Chinedu's Portfolio | Home</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Hi+Melody" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">  
+    <link rel="stylesheet" href ="{% static 'css/howdy.css' %}"> <!-- this is how to import a css file in django
+         first you create a 'static'folder and place the css file then import in this format-->
+</head>
+<body>
+    <div id="InitialContainer">
+        <div class="navbarr">
+        <ul>
+            <a href="/about/">About</a>
+            <a href="/projects/">Projects</a>
+            <a href="/resume/">resume</a>
+            <a href="/contact/">contact</a>    
+        </ul>
+    </div>
+        <div class="quote">
+            <h3>"The world belongs to those who believe in the beauty of their dreams"
+            </h3>
+        </div>
+        <h1 style="text-align: center; color: khaki; font-family: 'Hi melody'; ">Ogu chinedu's condo</h1>
+    </div>
+</body>
+</html>
