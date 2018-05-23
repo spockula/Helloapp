@@ -38,7 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'howdy',
-    'webpack_loader',
+    'rest_framework',
+    'rest_framework.authtoken',
+    'django_filters',
+    'blog',
 
 ]
 
@@ -108,7 +111,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC+1'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
@@ -122,14 +125,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'assets'),
-)
 
-
-WEBPACK_LOADER = {
-    'DEFAULT': {
-        'BUNDLE_DIR_NAME': 'bundles/',
-        'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.json'),
-    }
-}
+AUTH_USER_MODEL = 'blog.Account'

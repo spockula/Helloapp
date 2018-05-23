@@ -1,0 +1,1328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"market"
+			],
+			[
+				"ma",
+				"market"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"fireb",
+				"firebase"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"A",
+				"AccountSerializer"
+			],
+			[
+				"up",
+				"update_session_auth_hash"
+			],
+			[
+				"con",
+				"confirm_password"
+			],
+			[
+				"create_",
+				"create_user"
+			],
+			[
+				"B",
+				"BaseUserManager"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"t",
+				"True"
+			],
+			[
+				"c",
+				"CharField"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"C",
+				"CategoryAdmin"
+			],
+			[
+				"Bl",
+				"BlogAdmin"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"static",
+				"static-files"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"todo",
+				"todo-item"
+			],
+			[
+				"to",
+				"Todo-app"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"pg_nu",
+				"pg_num_rows"
+			],
+			[
+				"pg_fetch_",
+				"pg_fetch_assoc"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mysqli",
+				"mysqli_close"
+			],
+			[
+				"PH",
+				"PHP_SELF"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"se",
+				"senderEmail"
+			],
+			[
+				"en",
+				"enq_desc"
+			],
+			[
+				"enq",
+				"enq_email"
+			],
+			[
+				"nfrm_n",
+				"nfrm_name2"
+			],
+			[
+				"nf",
+				"nfrm_message"
+			],
+			[
+				"n",
+				"nfrm_mobile"
+			],
+			[
+				"nfrm_m",
+				"nfrm_message"
+			],
+			[
+				"nfr",
+				"nfrm_email"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"u_",
+				"u_address"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"connect",
+				"connect_error"
+			],
+			[
+				"mys",
+				"mysqli"
+			],
+			[
+				"mysql_",
+				"mysql_host"
+			],
+			[
+				"filt",
+				"filter_var"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"loc",
+				"localhost"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"desc",
+				"desc-container"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"repeat-y"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sr",
+				"src\tAttr"
+			],
+			[
+				"M",
+				"MSMabout"
+			],
+			[
+				"My",
+				"MyShoppeMart"
+			],
+			[
+				"order",
+				"Order"
+			],
+			[
+				"you",
+				"Your"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/C/Helloapp/howdy/serializers.py",
+			"file_size": 0,
+			"file_write_time": 131686662546865235,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Helloapp/blog/serializers.py",
+			"settings":
+			{
+				"buffer_size": 1192,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "serializers.py"
+			}
+		},
+		{
+			"contents": "from django.shortcuts import render\nfrom django.http import HttpResponse\nfrom rest_framework import permissions, viewsets\n\nfrom blog.models import Account\nfrom blog.permissions import IsAccountOwner\nfrom blog.serializers import AccountSerializer\n\n# Create your views here.\ndef index(request):\n\treturn HttpResponse(\"Welcome, you are at the polls index\")\n\nclass AccountViewSet(viewsets.ModelViewSet):\n\tlookup_field = 'username'\n\tqueryset = Account.objects.all()\n\tserializer_class = AccountSerializer\n\n\tdef get_permissions(self):\n\t\tif self.request.method in permissions.SAFE_METHODS:\n\t\t\treturn (permissions.AllowAny(),)\n\n\t\tif self.request.method == 'POST':\n\t\t",
+			"file": "/C/Helloapp/blog/views.py",
+			"file_size": 186,
+			"file_write_time": 131702859563808594,
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/README.md",
+			"settings":
+			{
+				"buffer_size": 546,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Helloapp/blog/models.py",
+			"settings":
+			{
+				"buffer_size": 1449,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/main.js",
+			"settings":
+			{
+				"buffer_size": 740,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/store/index.js",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/components/login.vue",
+			"settings":
+			{
+				"buffer_size": 851,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/components/signup.vue",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/index.html",
+			"settings":
+			{
+				"buffer_size": 349,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/router/index.js",
+			"settings":
+			{
+				"buffer_size": 798,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/store/categories.js",
+			"settings":
+			{
+				"buffer_size": 911,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/store/login.js",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "login.js"
+			}
+		},
+		{
+			"file": "/C/market/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 374,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/store/category.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/components/Category.vue",
+			"settings":
+			{
+				"buffer_size": 1992,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/market/src/components/Categories.vue",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Helloapp/helloapp/settings.py",
+			"settings":
+			{
+				"buffer_size": 3231,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"install packages"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/market",
+		"/C/market/src"
+	],
+	"file_history":
+	[
+		"/C/market/src/components/login.vue",
+		"/C/market/src/components/signup.vue",
+		"/C/helloapp/howdy/static/css/howdy.css",
+		"/C/helloapp/howdy/templates/projects.html",
+		"/C/helloapp/blog/views.py",
+		"/C/helloapp/helloapp/urls.py",
+		"/C/helloapp/blog/urls.py",
+		"/C/helloapp/blog/admin.py",
+		"/C/demo/jsninja/index.html",
+		"/C/helloapp/blog/models.py",
+		"/C/helloapp/howdy/templates/index.html",
+		"/C/helloapp/helloapp/settings.py",
+		"/C/helloapp/blog/index.html",
+		"/C/helloapp/blog/base.html",
+		"/C/helloapp/blog/view_category.html",
+		"/C/helloapp/blog/view_post.html",
+		"/C/demo/package.json",
+		"/C/demo/README.md",
+		"/C/demo/index.html",
+		"/C/demo/package-lock.json",
+		"/C/helloapp/howdy/templates/resume.html",
+		"/C/helloapp/howdy/models.py",
+		"/C/Users/spocky/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+		"/C/xampp/htdocs/msm/admin.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/include/class.phpmailer.php",
+		"/C/xampp/htdocs/msmbeta/register.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/register.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/scripts/gen_validatorv31.js",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/resetpwd.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/confirmreg.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/include/fg_membersite.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/reset-pwd-req.php",
+		"/C/xampp/htdocs/msm/custom-order.php",
+		"/C/xampp/htdocs/msm/server_2.php",
+		"/C/xampp/htdocs/msm/register_2.php",
+		"/C/xampp/htdocs/msm/Custom-Order.php",
+		"/C/xampp/htdocs/php/index.php",
+		"/C/xampp/htdocs/php/install/index.php",
+		"/C/xampp/htdocs/trial/login/Actions.php",
+		"/C/xampp/htdocs/trial/login/dbconnect.php",
+		"/C/xampp/htdocs/trial/vsms.sql",
+		"/C/xampp/htdocs/php/system/database/DB.php",
+		"/C/xampp/htdocs/trial/README.md",
+		"/C/xampp/htdocs/php/system/database/DB_query_builder.php",
+		"/C/xampp/htdocs/php/install/do_install.php",
+		"/C/xampp/htdocs/php/install/database.sql",
+		"/C/xampp/htdocs/php/system/database/index.html",
+		"/C/xampp/htdocs/php/system/index.html",
+		"/C/Users/spocky/Desktop/process.php",
+		"/C/Users/spocky/Desktop/jsqrcode/src/test.html",
+		"/C/xampp/htdocs/source/include/membersite_config.php",
+		"/C/xampp/htdocs/source/include/fg_membersite.php",
+		"/C/xampp/htdocs/jk/source/include/membersite_config.php",
+		"/C/xampp/htdocs/source/register.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/include/membersite_config.php",
+		"/C/xamp/htdocs/jk/source/include/fg_membersite.php",
+		"/C/Users/spocky/Desktop/usbwebserver/root/jk/source/include/membersite_config.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/source/include/formvalidator.php",
+		"/C/xamp/htdocs/jk/source/include/membersite_config.php",
+		"/C/Users/spocky/Desktop/simfatic-RegistrationForm-dc288cf/README.md",
+		"/C/Users/spocky/Desktop/myshoppemart/css/style.css",
+		"/C/Users/spocky/Desktop/myshoppemart/trial.html",
+		"/C/Users/spocky/Downloads/Infinity10/index.html",
+		"/C/Users/spocky/Desktop/myshoppemart/css/about2.css",
+		"/C/Users/spocky/Desktop/myshoppemart/about2.html",
+		"/C/Users/spocky/Desktop/myshoppemart/MSM custom.html",
+		"/C/Users/spocky/Desktop/myshoppemart/MSMseasonal.html",
+		"/C/Users/spocky/Desktop/myshoppemart/MSMhomepage.html",
+		"/C/Users/spocky/Desktop/myshoppemart/MSMlogistics.html",
+		"/C/Users/spocky/Desktop/myshoppemart/platform.html",
+		"/C/Users/spocky/Desktop/myshoppemart/ag document.html",
+		"/C/Users/spocky/Desktop/Imminent-master/css/style.css",
+		"/C/Users/spocky/Desktop/Imminent-master/MSM custom.html",
+		"/C/Users/spocky/Desktop/Imminent-master/js/main.js",
+		"/C/Users/spocky/Desktop/ShoppeMart/MSMhomepage.html",
+		"/C/Users/spocky/Desktop/myshoppemart/css/MSMstyle.css",
+		"/C/Users/spocky/Desktop/myshoppemart/css/templatemo_style.css",
+		"/C/Users/spocky/Desktop/ShoppeMart/css/MSMstyle.css",
+		"/C/Users/spocky/Desktop/ShoppeMart/css/templatemo_style.css",
+		"/C/Users/spocky/Desktop/upnepa/views/index.hjs",
+		"/C/Users/spocky/Desktop/ShoppeMart/css/bootstrap.min.css",
+		"/C/Users/spocky/Desktop/myshoppemart/MSMstyle.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\demo"
+		},
+		{
+			"path": "C:\\Helloapp"
+		},
+		{
+			"path": "C:\\market"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Helloapp/howdy/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Helloapp/blog/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"auto_name": "serializers.py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Helloapp/blog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/market/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Helloapp/blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1449,
+								1449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/market/src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/market/src/store/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/market/src/components/login.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/market/src/components/signup.vue",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/market/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/market/src/router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/market/src/store/categories.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/market/src/store/login.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"auto_name": "login.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/market/src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/market/src/store/category.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/market/src/components/Category.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1504,
+								1504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/market/src/components/Categories.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Helloapp/helloapp/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								884,
+								884
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

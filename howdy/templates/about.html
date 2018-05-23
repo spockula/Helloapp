@@ -9,16 +9,28 @@
         <meta name="author" content="Ogu chinedu" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Ogu Chinedu's Portfolio | About</title>
-        <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
-        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
-        <link rel="stylesheet" href ="{% static 'css/howdy.css' %}">
+        <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Hi+Melody" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">  
+    <link rel="stylesheet" href ="{% static 'css/howdy.css' %}"> <!-- this is how to import a css file in django
+         first you create a 'static'folder and place the css file then import in this format-->
     </head>
     <body>
-<h1>About Me!</h1>
-<header>
-<a href="/">Home</a> <a href="/projects/">Projects</a> <a href="/resume/">Resume</a>
-</header>
-
+        <div id="navbarr">
+                <ul>
+                    <a href="/contact/">Contact</a>
+                    <a href="/projects/">Projects</a>
+                    <a href="/resume/">Resume</a>
+                    <a href="/">Home</a>    
+                </ul>
+                <div class="quote">
+                        <h3>"The reward for hardwork is more work"
+                        </h3>
+                        </div>
+            </div>
 <footer> 
     copyright Ogu Chinedu 2018</footer>
     </body>

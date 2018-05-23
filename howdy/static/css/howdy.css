@@ -1,23 +1,62 @@
 body{
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
     width: auto;
-    height: auto;
-    background-color: #5CDB95;
+    height: 100%;
+    background-image: url("Images/background.jpg");
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    line-height: 20px; 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
-.navbarr{
-    margin-top: 10px;
+p{
+    text-indent: 10px;
+}
+#most_recent, #activities_from_links, .navbarr{
+    margin: 0 1.5% 24px 1.5%;
+}
+#most_recent{
+    background: linear-gradient(#648880, #293f50, transparent);
+    border-radius: 6px;
+    color: #fff;
+    display: inline-block;
+    padding: 24px 9px;
+    text-align: center;
+    margin: 0 1.5% 2px;
+  width: 95%;
+}
+#activities_from_links{
+    background: #eaeaed;
+    opacity: 0.6;
+    border-radius: 6px;
+    color: black;
+    display: inline-block;
+    padding: 24px 9px;
+    text-align: center;
+    margin: 0 1.5%;
+  width: 95%;
+}
+#navbarr{
+    background: transparent;
+    height: 90px;
+    padding: 20px 0px 20px 0px;
+    margin-left: 0px;
+    margin-right: 5px;
     }
-.quote{
+
+#navbarr .quote{
     font-size: 20px;
     justify-content: space-between;
     font-family: 'Libre Baskerville', serif;
-    margin-top: 18px;
-    color: blueviolet;
+    font-style: italic;
+    font-weight: 180;
+    color: #648880;
     text-align: center;
 }
-.navbarr ul a{
+#navbarr ul a{
     font-family: 'Abril Fatface', cursive;
     float: right;
     color: black;
@@ -25,12 +64,19 @@ body{
     padding-left: 20px;
     border: 0.1em solid black;
 }
-#InitialContainer{
-    
-}
 a{
     text-decoration: none;
 }
+a:active{
+    color:#a9b2b9;
+}
 footer{
     text-align: center;
+    clear: both;
+    margin-bottom: 0px;
+    border-radius: 6px;
+    padding: 24px 4px;
+    margin-right: 0px;
+    margin-left: -19px;
+    background: radial-gradient(#004092, #004092, transparent);
 }
