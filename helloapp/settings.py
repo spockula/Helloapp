@@ -37,10 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'howdy',
-    'rest_framework',
-    'rest_framework.authtoken',
-    'django_filters',
     'blog',
 
 ]
@@ -125,5 +121,3 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-
-AUTH_USER_MODEL = 'blog.Account'

@@ -1,0 +1,17 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1>Post List</h1>
+  {% if post_list %}
+  <ul>
+    {% for post in post_list %}
+      <li>
+        <a href="{{ post.get_absolute_url }}">{{ post.title }}</a> ({{post.author}})
+      </li>
+      <a href="{% url 'post_detail' pk=post.pk %}">show post</a>
+    {% endfor %}
+  </ul>
+  {% else %}
+    <p>There are no Posts in the blog.</p>
+  {% endif %}       
+{% endblock %}

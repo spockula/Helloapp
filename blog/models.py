@@ -1,55 +1,68 @@
+import uuid
+from random import choices
 from django.db import models
-from django.contrib.auth.models import AbstractBaseUser
-from django.contrib.auth.models import BaseUserManager
+from django.urls import reverse
+from django.utils import timezone
+
+
 # Create your models here.
-class AccountManager(BaseUserManager):
-	def create_user(self, email, password=None, **kwargs):
-		if not email:
-			raise ValueError('users must have a valid email address.')
+class Post(models.Model):
+    author = models.ForeignKey('Author', on_delete=models.SET_NULL, null=True)
+    title = models.CharField(('title'), max_length=200)
+    text = models.TextField()
+    tags = models.CharField('tags', max_length = 100)
+    pub_date = models.DateTimeField(default = timezone.now)
+    created_date = models.DateTimeField(default=timezone.now)
 
-		if not kwargs.get('username'):
-			raise ValueError('users must have a valid username')
+    def publish(self):
+        self.pub_date = timezone.now()
+        self.save()
 
-		account = self.model(
-			email=self.normalize_email(email), username=kwargs.get('username')
-			)
+    def __str__(self):
+        return self.title
 
-		account.set_password(password)
-		account.save()
+    def get_absolute_url(self):
+        return reverse("post_detail", kwargs={"id": self.id})
+    
+class PostType(models.Model):
+    id = models.UUIDField(primary_key = True, default = uuid.uuid4)
+    Post = models.ForeignKey('Post', on_delete=models.SET_NULL, null = True)
+    POST_CATEGORY = (
+        ('tech', 'Technology'),
+        ('article', 'article'),
+        ('fic', 'Fiction'),
+        ('non', 'Non-Fiction'),
+        ('py', 'Python'),
+        ('dj', 'Django'),
+        ('Web', 'Web Development'),
+        ('js', 'Javascript'),
+        ('frontend', 'Frontend Development'),
+        ('backend', 'Backend Development'),
+    )
 
-		return account
+    Tag = models.CharField(
+        max_length = 10,
+        choices = POST_CATEGORY,
+        blank = True,
+        default = 'article'
+    )
 
-	def create_superuser(self,email,password, **kwargs):
-		account = self.create_user(email, password, **kwargs)
+class meta:
+        ordering = ['POST_CATEGORY']
 
-		account.is_admin= True
-		account.save()
+def __str__(self):
+        return f'{self.id} ({self.post.title})'
 
-		return account
-		
+class Author(models.Model):
+    First_Name = models.CharField(max_length = 100)
+    Last_Name = models.CharField(max_length = 100)
+    Position = models.CharField(max_length = 100)
 
+class meta:
+    ordering = ['First_Name', 'Last_Name']
 
-class Account(AbstractBaseUser):
-	email = models.EmailField(unique=True)
-	username = models.CharField(max_length=40, unique=True)
+def get_absolute_url(self):
+    return reverse('author_detail', args=[str(self.id)])
 
-	first_name = models.CharField(max_length=40, blank=True)
-	last_name = models.CharField(max_length=40, blank=True)
-	tagline = models.CharField(max_length=150, blank=True)
-
-	is_admin = models.BooleanField(default = False)
-
-	created_at = models.DateTimeField(auto_now_add = True)
-	updated_at = models.DateTimeField(auto_now= True)
-
-	objects = AccountManager()
-
-	USERNAME_FIELD = 'email'
-	REQUIRED_FIELDS = ['username']
-
-	def __unicode__(self):
-		return self.email
-
-	def get_full_name(self):
-		return ''.join([self.first_name, self.last_name])
-
+def __str__(self):
+    return f'{self.Last_Name}, {self.First_Name}'

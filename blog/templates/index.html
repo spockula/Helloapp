@@ -1,0 +1,13 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h1>Ogu Chinedu Home</h1>
+  <p>Welcome to My Blog, a website developed by <em>Ogu Chinedu Kingsley</em>!</p>
+  <h2>Dynamic content</h2>
+  <p>The library has the following record counts:</p>
+  <ul>
+    <li><strong>Posts:</strong> {{ num_post }}</li>
+    <li><strong>Copies:</strong> {{ num_PostType }}</li>
+    <li><strong>Authors:</strong> {{ num_authors }}</li>
+  </ul>
+{% endblock %}
