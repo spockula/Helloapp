@@ -10,9 +10,31 @@ class Post(models.Model):
     author = models.ForeignKey('Author', on_delete=models.SET_NULL, null=True)
     title = models.CharField(('title'), max_length=200)
     text = models.TextField()
-    tags = models.CharField('tags', max_length = 100)
+    tags =(
+        ('tech', 'Technology'),
+        ('article', 'article'),
+        ('fic', 'Fiction'),
+        ('non', 'Non-Fiction'),
+        ('py', 'Python'),
+        ('dj', 'Django'),
+        ('Web', 'Web Development'),
+        ('js', 'Javascript'),
+        ('frontend', 'Frontend Development'),
+        ('backend', 'Backend Development'),
+    )
+
+    Tags = models.CharField(
+        max_length = 10,
+        choices = tags,
+        blank = True,
+        default = 'article'
+    )
+
+    class meta:
+        ordering = ['tags']
     pub_date = models.DateTimeField(default = timezone.now)
     created_date = models.DateTimeField(default=timezone.now)
+    
 
     def publish(self):
         self.pub_date = timezone.now()
@@ -22,7 +44,7 @@ class Post(models.Model):
         return self.title
 
     def get_absolute_url(self):
-        return reverse("post_detail", kwargs={"id": self.id})
+        return reverse("post_detail", kwargs={"id"})
     
 class PostType(models.Model):
     id = models.UUIDField(primary_key = True, default = uuid.uuid4)
@@ -47,7 +69,7 @@ class PostType(models.Model):
         default = 'article'
     )
 
-class meta:
+    class meta:
         ordering = ['POST_CATEGORY']
 
 def __str__(self):
@@ -58,11 +80,11 @@ class Author(models.Model):
     Last_Name = models.CharField(max_length = 100)
     Position = models.CharField(max_length = 100)
 
-class meta:
-    ordering = ['First_Name', 'Last_Name']
+    class meta:
+        ordering = ['First_Name', 'Last_Name']
+
+    def __str__(self):
+        return f'{self.Last_Name}, {self.First_Name}'
 
 def get_absolute_url(self):
     return reverse('author_detail', args=[str(self.id)])
-
-def __str__(self):
-    return f'{self.Last_Name}, {self.First_Name}'
